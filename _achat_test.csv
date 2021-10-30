@@ -1,0 +1,11 @@
+age,sexe,race,img_client,code_achat,code_produit,date,quantite
+43.0,Man,black,homme_douze.jpg,achat_587047,OAP7113,2021-10-29 09:12:56.587440,1.0
+26.0,Woman,asian,fille_six.jpg,achat_124449,OAP7122,2021-10-29 09:12:58.124502,1.0
+28.0,Man,black,fille_sept.jpg,achat_993093,OAP6795,2021-10-29 09:12:59.993161,1.0
+31.0,Man,black,keita.jpg,achat_265714,OAP7065,2021-10-29 09:13:01.265771,1.0
+32.0,Man,black,homme_onze.jpg,achat_73948,OAP7128,2021-10-29 09:13:03.074008,1.0
+33.0,Man,white,messi_un.jpg,achat_220837,OAP7066,2021-10-29 09:13:04.221020,1.0
+41.0,Man,black,Mboma.png,achat_787585,OAP6795,2021-10-29 09:13:05.787641,1.0
+34.0,Man,black,homme_treize.jpg,achat_566142,OAP6651,2021-10-29 09:13:07.566209,1.0
+28.0,Man,black,fille_sept.jpg,achat_465774,OAP6977,2021-10-29 09:13:09.465828,1.0
+26.0,Woman,asian,fille_six.jpg,achat_44269,OAP6671,2021-10-29 09:13:11.044341,1.0
